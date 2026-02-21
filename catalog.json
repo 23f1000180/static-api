@@ -31,7 +31,13 @@
       "count": 4,
       "inventoryValue": 143080.91
     },
-    "clothing": { "count": 3, "inventoryValue": 93510.56 
+    "clothing": { 
+      "count": 3, 
+      "inventoryValue": 93510.56 
+    },
+    "books": { 
+      "count": 5, 
+      "inventoryValue": 151339.68 
     }
   }
 }
